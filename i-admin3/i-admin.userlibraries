@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: junit:junit:4.12">
+    <archive path="D:/maven/myrepository/junit/junit/4.12/junit-4.12.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
+    <archive path="D:/maven/myrepository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-test:5.1.10.RELEASE">
+    <archive path="D:/maven/myrepository/org/springframework/spring-test/5.1.10.RELEASE/spring-test-5.1.10.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-core:5.1.10.RELEASE">
+    <archive path="D:/maven/myrepository/org/springframework/spring-core/5.1.10.RELEASE/spring-core-5.1.10.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-jcl:5.1.10.RELEASE">
+    <archive path="D:/maven/myrepository/org/springframework/spring-jcl/5.1.10.RELEASE/spring-jcl-5.1.10.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.apache.logging.log4j:log4j-slf4j-impl:2.12.1">
+    <archive path="D:/maven/myrepository/org/apache/logging/log4j/log4j-slf4j-impl/2.12.1/log4j-slf4j-impl-2.12.1.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.25">
+    <archive path="D:/maven/myrepository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" />
+  </library>
+  <library name="Maven: org.apache.logging.log4j:log4j-api:2.12.1">
+    <archive path="D:/maven/myrepository/org/apache/logging/log4j/log4j-api/2.12.1/log4j-api-2.12.1.jar" />
+  </library>
+  <library name="Maven: org.apache.logging.log4j:log4j-core:2.12.1">
+    <archive path="D:/maven/myrepository/org/apache/logging/log4j/log4j-core/2.12.1/log4j-core-2.12.1.jar" />
+  </library>
+  <library name="Maven: org.apache.logging.log4j:log4j-web:2.12.1">
+    <archive path="D:/maven/myrepository/org/apache/logging/log4j/log4j-web/2.12.1/log4j-web-2.12.1.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context:5.1.10.RELEASE">
+    <archive path="D:/maven/myrepository/org/springframework/spring-context/5.1.10.RELEASE/spring-context-5.1.10.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aop:5.1.10.RELEASE">
+    <archive path="D:/maven/myrepository/org/springframework/spring-aop/5.1.10.RELEASE/spring-aop-5.1.10.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-beans:5.1.10.RELEASE">
+    <archive path="D:/maven/myrepository/org/springframework/spring-beans/5.1.10.RELEASE/spring-beans-5.1.10.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-expression:5.1.10.RELEASE">
+    <archive path="D:/maven/myrepository/org/springframework/spring-expression/5.1.10.RELEASE/spring-expression-5.1.10.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aspects:5.1.10.RELEASE">
+    <archive path="D:/maven/myrepository/org/springframework/spring-aspects/5.1.10.RELEASE/spring-aspects-5.1.10.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.aspectj:aspectjweaver:1.9.4">
+    <archive path="D:/maven/myrepository/org/aspectj/aspectjweaver/1.9.4/aspectjweaver-1.9.4.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-jdbc:5.1.10.RELEASE">
+    <archive path="D:/maven/myrepository/org/springframework/spring-jdbc/5.1.10.RELEASE/spring-jdbc-5.1.10.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-tx:5.1.10.RELEASE">
+    <archive path="D:/maven/myrepository/org/springframework/spring-tx/5.1.10.RELEASE/spring-tx-5.1.10.RELEASE.jar" />
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:5.1.47">
+    <archive path="D:/maven/myrepository/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar" />
+  </library>
+  <library name="Maven: com.alibaba:druid:1.1.20">
+    <archive path="D:/maven/myrepository/com/alibaba/druid/1.1.20/druid-1.1.20.jar" />
+  </library>
+  <library name="Maven: org.mybatis:mybatis:3.5.2">
+    <archive path="D:/maven/myrepository/org/mybatis/mybatis/3.5.2/mybatis-3.5.2.jar" />
+  </library>
+  <library name="Maven: com.baomidou:mybatis-plus:3.2.0">
+    <archive path="D:/maven/myrepository/com/baomidou/mybatis-plus/3.2.0/mybatis-plus-3.2.0.jar" />
+  </library>
+  <library name="Maven: com.baomidou:mybatis-plus-extension:3.2.0">
+    <archive path="D:/maven/myrepository/com/baomidou/mybatis-plus-extension/3.2.0/mybatis-plus-extension-3.2.0.jar" />
+  </library>
+  <library name="Maven: com.baomidou:mybatis-plus-core:3.2.0">
+    <archive path="D:/maven/myrepository/com/baomidou/mybatis-plus-core/3.2.0/mybatis-plus-core-3.2.0.jar" />
+  </library>
+  <library name="Maven: com.baomidou:mybatis-plus-annotation:3.2.0">
+    <archive path="D:/maven/myrepository/com/baomidou/mybatis-plus-annotation/3.2.0/mybatis-plus-annotation-3.2.0.jar" />
+  </library>
+  <library name="Maven: com.github.jsqlparser:jsqlparser:2.1">
+    <archive path="D:/maven/myrepository/com/github/jsqlparser/jsqlparser/2.1/jsqlparser-2.1.jar" />
+  </library>
+  <library name="Maven: org.mybatis:mybatis-spring:2.0.2">
+    <archive path="D:/maven/myrepository/org/mybatis/mybatis-spring/2.0.2/mybatis-spring-2.0.2.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-webmvc:5.1.10.RELEASE">
+    <archive path="D:/maven/myrepository/org/springframework/spring-webmvc/5.1.10.RELEASE/spring-webmvc-5.1.10.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-web:5.1.10.RELEASE">
+    <archive path="D:/maven/myrepository/org/springframework/spring-web/5.1.10.RELEASE/spring-web-5.1.10.RELEASE.jar" />
+  </library>
+  <library name="Maven: javax.servlet:javax.servlet-api:3.1.0">
+    <archive path="D:/maven/myrepository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" />
+  </library>
+  <library name="Maven: javax.servlet:jstl:1.2">
+    <archive path="D:/maven/myrepository/javax/servlet/jstl/1.2/jstl-1.2.jar" />
+  </library>
+  <library name="Maven: javax.servlet.jsp:jsp-api:2.2">
+    <archive path="D:/maven/myrepository/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.8">
+    <archive path="D:/maven/myrepository/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.8">
+    <archive path="D:/maven/myrepository/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.8">
+    <archive path="D:/maven/myrepository/com/fasterxml/jackson/core/jackson-annotations/2.9.8/jackson-annotations-2.9.8.jar" />
+  </library>
+  <library name="Maven: commons-fileupload:commons-fileupload:1.3.3">
+    <archive path="D:/maven/myrepository/commons-fileupload/commons-fileupload/1.3.3/commons-fileupload-1.3.3.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:2.2">
+    <archive path="D:/maven/myrepository/commons-io/commons-io/2.2/commons-io-2.2.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-ehcache:1.4.1">
+    <archive path="D:/maven/myrepository/org/apache/shiro/shiro-ehcache/1.4.1/shiro-ehcache-1.4.1.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-cache:1.4.1">
+    <archive path="D:/maven/myrepository/org/apache/shiro/shiro-cache/1.4.1/shiro-cache-1.4.1.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-lang:1.4.1">
+    <archive path="D:/maven/myrepository/org/apache/shiro/shiro-lang/1.4.1/shiro-lang-1.4.1.jar" />
+  </library>
+  <library name="Maven: net.sf.ehcache:ehcache-core:2.6.11">
+    <archive path="D:/maven/myrepository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar" />
+  </library>
+  <library name="Maven: org.ehcache:ehcache:3.8.0">
+    <archive path="D:/maven/myrepository/org/ehcache/ehcache/3.8.0/ehcache-3.8.0.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:jaxb-runtime:2.3.1">
+    <archive path="D:/maven/myrepository/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar" />
+  </library>
+  <library name="Maven: javax.xml.bind:jaxb-api:2.3.1">
+    <archive path="D:/maven/myrepository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:txw2:2.3.1">
+    <archive path="D:/maven/myrepository/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar" />
+  </library>
+  <library name="Maven: com.sun.istack:istack-commons-runtime:3.0.7">
+    <archive path="D:/maven/myrepository/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar" />
+  </library>
+  <library name="Maven: org.jvnet.staxex:stax-ex:1.8">
+    <archive path="D:/maven/myrepository/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.fastinfoset:FastInfoset:1.2.15">
+    <archive path="D:/maven/myrepository/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar" />
+  </library>
+  <library name="Maven: javax.activation:javax.activation-api:1.2.0">
+    <archive path="D:/maven/myrepository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-spring:1.4.1">
+    <archive path="D:/maven/myrepository/org/apache/shiro/shiro-spring/1.4.1/shiro-spring-1.4.1.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-core:1.4.1">
+    <archive path="D:/maven/myrepository/org/apache/shiro/shiro-core/1.4.1/shiro-core-1.4.1.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-crypto-hash:1.4.1">
+    <archive path="D:/maven/myrepository/org/apache/shiro/shiro-crypto-hash/1.4.1/shiro-crypto-hash-1.4.1.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-crypto-core:1.4.1">
+    <archive path="D:/maven/myrepository/org/apache/shiro/shiro-crypto-core/1.4.1/shiro-crypto-core-1.4.1.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-crypto-cipher:1.4.1">
+    <archive path="D:/maven/myrepository/org/apache/shiro/shiro-crypto-cipher/1.4.1/shiro-crypto-cipher-1.4.1.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-config-core:1.4.1">
+    <archive path="D:/maven/myrepository/org/apache/shiro/shiro-config-core/1.4.1/shiro-config-core-1.4.1.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-config-ogdl:1.4.1">
+    <archive path="D:/maven/myrepository/org/apache/shiro/shiro-config-ogdl/1.4.1/shiro-config-ogdl-1.4.1.jar" />
+  </library>
+  <library name="Maven: commons-beanutils:commons-beanutils:1.9.3">
+    <archive path="D:/maven/myrepository/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar" />
+  </library>
+  <library name="Maven: commons-collections:commons-collections:3.2.2">
+    <archive path="D:/maven/myrepository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-event:1.4.1">
+    <archive path="D:/maven/myrepository/org/apache/shiro/shiro-event/1.4.1/shiro-event-1.4.1.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-web:1.4.1">
+    <archive path="D:/maven/myrepository/org/apache/shiro/shiro-web/1.4.1/shiro-web-1.4.1.jar" />
+  </library>
+  <library name="Maven: com.baomidou:mybatis-plus-generator:3.2.0">
+    <archive path="D:/maven/myrepository/com/baomidou/mybatis-plus-generator/3.2.0/mybatis-plus-generator-3.2.0.jar" />
+  </library>
+  <library name="Maven: org.freemarker:freemarker:2.3.29">
+    <archive path="D:/maven/myrepository/org/freemarker/freemarker/2.3.29/freemarker-2.3.29.jar" />
+  </library>
+</eclipse-userlibraries>
+
